@@ -91,7 +91,6 @@ Key challenges include: non-stationary environments, partial observability, acti
 
 > Papers on agents continuously learning to navigate in new environments, with new goals or layouts, without forgetting prior routes.
 
-- Trajectory-Diversity-Driven Robust Vision-and-Language Navigation (CVPR2026 Finding) [[paper](#)] — *Corresponding: Songlin Dong*
 - Learning to Navigate for Mobile Robot with Continual Reinforcement Learning (IROS2021) [[paper](https://arxiv.org/abs/2110.04991)]
 - Evaluating Continual Learning on a Home Robot (arXiv2022) [[paper](https://arxiv.org/abs/2205.04020)]
 
@@ -131,9 +130,6 @@ Key challenges include: non-stationary environments, partial observability, acti
 ### 💬 Instruction Following & Vision-Language
 
 > Agents that incrementally follow natural-language instructions, acquire new concepts from VLMs, and generalize to new command distributions.
-
-- Trajectory-Diversity-Driven Robust Vision-and-Language Navigation (CVPR2026 Finding) [[paper](#)] — *Corresponding: Songlin Dong*
-- ReMoT: Reinforcement Learning with Motion Contrast Triplets (CVPR2026) [[paper](#)] — *Corresponding: Songlin Dong*
 
 ---
 
@@ -224,7 +220,6 @@ Key challenges include: non-stationary environments, partial observability, acti
 
 ### Architecture-Based Methods
 
-- Is Parameter Isolation Better for Prompt-Based Continual Learning? (CVPR2026) [[paper](https://arxiv.org/abs/2601.20894)]
 - Building a Subspace of Policies for Scalable Continual Reinforcement Learning (ICLR2023) [[paper](https://arxiv.org/abs/2211.10445)]
 - Self-Composing Policies for Scalable Continual Reinforcement Learning (arXiv2023) [[paper](https://arxiv.org/abs/2207.02631)]
 - Modular Lifelong Reinforcement Learning via Neural Composition (ICLR2022) [[paper](https://arxiv.org/abs/2207.00429)]
@@ -235,7 +230,6 @@ Key challenges include: non-stationary environments, partial observability, acti
 
 ### Prompt / Parameter-Efficient Methods
 
-- Is Parameter Isolation Better for Prompt-Based Continual Learning? (CVPR2026) [[paper](https://arxiv.org/abs/2601.20894)]
 - Shared & Domain Self-Adaptive Experts with Frequency-Aware Discrimination for Continual Test-Time Adaptation (AAAI2026) [[paper](#)]
 - Think Small, Act Big: Primitive Prompt Learning for Lifelong Robot Manipulation (CVPR2025) [[paper](https://arxiv.org/abs/2504.00420)]
 - Hierarchical-Task-Aware Multi-modal Mixture of Incremental LoRA Experts for Embodied Continual Learning (ACL2025) [[paper](https://aclanthology.org/2025.acl-long.1379/)]
@@ -250,12 +244,6 @@ Key challenges include: non-stationary environments, partial observability, acti
 
 ### 2026
 
-- Is Parameter Isolation Better for Prompt-Based Continual Learning? (CVPR2026) [[paper](https://arxiv.org/abs/2601.20894)]
-- ReMoT: Reinforcement Learning with Motion Contrast Triplets (CVPR2026) [[paper](#)] — *Corresponding: Songlin Dong*
-- Trajectory-Diversity-Driven Robust Vision-and-Language Navigation (CVPR2026 Finding) [[paper](#)] — *Corresponding: Songlin Dong*
-- Shared & Domain Self-Adaptive Experts with Frequency-Aware Discrimination for Continual Test-Time Adaptation (AAAI2026) [[paper](#)]
-
----
 
 ### 2025
 
